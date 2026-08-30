@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://KilianLevasseur.github.io/readme-9rr6hw/sitemap.xml
